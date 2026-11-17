@@ -1,20 +1,22 @@
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+
 body {
   font-family: 'Bai Jamjuree', sans-serif;
-  color: hsl(201, 11%, 66%); 
+  color: rgb(39, 40, 43); 
   background-color: #ffffff;
-  background-image: url(/img/Bitmap2.png);
+  background-image: url(img/Bitmap\ 2.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 100% 363px;
-  
   text-align: center;
 }
+
+
 
 
 main {
@@ -25,21 +27,25 @@ main {
   padding-right: 24px;
 }
 
+
 .logo-container {
   margin-bottom: 56px;
 }
+
 
 .logo-container img {
   width: 125px;
 }
 
+
 .title {
-  color: hsl(210, 10%, 33%); 
+  color:rgb(39, 40, 43);
   font-size: 32px;
   font-weight: 600;
   line-height: 125%;
   margin-bottom: 16px;
 }
+
 
 .description {
   font-size: 18px;
@@ -48,7 +54,9 @@ main {
   margin: 0 auto 48px auto; 
 }
 
+
 .btn {
+  border: none;
   display: inline-block;
   width: 100%;
   max-width: 225px;
@@ -59,17 +67,28 @@ main {
   font-weight: 600;
   color: #ffffff;
   text-align: center;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
 }
+
+
 
 
 .btn-ios {
-  background-color: hsl(171, 66%, 44%);
+  background-color: rgb(131, 133, 243) ;
 }
+
+
 
 
 .btn-mac {
-  background-color: hsl(233, 100%, 69%);
+  background-color:rgb(117, 62, 153)
 }
+.cabecalho {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
 
 .ferramenta {
   max-width: 1120px;
@@ -78,109 +97,6 @@ main {
 }
 
 
-.ferramenta-content {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center; 
-  gap: 80px;
-}
-
-
-.ferramenta-image {
-  margin-left: 0; 
-  flex: 1;
-  display: flex;
-  justify-content: center;
-}
-
-.ferramenta-image img {
-  max-width: 100%;
-  height: auto;
-}
-
-.ferramenta-list {
-  flex: 1;
-  text-align: left;
-}
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Bai Jamjuree', sans-serif;
-  color: hsl(201, 11%, 66%); 
-  background-color: #ffffff;
-  background-image: url(/img/Bitmap.png);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: 100% 363px;
-  
-  text-align: center;
-}
-
-
-main {
-  max-width: 1120px;
-  margin: 0 auto;
-  padding-top: 128px;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-
-.logo-container {
-  margin-bottom: 56px;
-}
-
-.logo-container img {
-  width: 125px;
-}
-
-.title {
-  color: hsl(210, 10%, 33%); 
-  font-size: 32px;
-  font-weight: 600;
-  line-height: 125%;
-  margin-bottom: 16px;
-}
-
-.description {
-  font-size: 18px;
-  line-height: 150%;
-  max-width: 730px;
-  margin: 0 auto 48px auto; 
-}
-
-.btn {
-  display: inline-block;
-  width: 100%;
-  max-width: 225px;
-  padding: 14px 0;
-  border-radius: 28px;
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: 600;
-  color: #ffffff;
-  text-align: center;
-}
-
-
-.btn-ios {
-  background-color: hsl(171, 66%, 44%);
-}
-
-
-.btn-mac {
-  background-color: hsl(233, 100%, 69%);
-}
-
-.ferramenta {
-  max-width: 1120px;
-  margin: 0 auto;
-  padding: 80px 24px;
-}
 
 
 .ferramenta-header {
@@ -188,6 +104,7 @@ main {
   margin: 0 auto 64px auto;
   text-align: center;
 }
+
 
 .ferramenta-content {
   display: flex;
@@ -197,6 +114,8 @@ main {
 }
 
 
+
+
 .ferramenta-image {
   margin: 0;
   display: flex;
@@ -204,10 +123,12 @@ main {
   width: 100%;
 }
 
+
 .ferramenta-image img {
   max-width: 100%;
   height: auto;
 }
+
 
 .ferramenta-list {
   display: flex;
@@ -218,32 +139,24 @@ main {
   max-width: 350px;     
 }
 
-.ferramenta-list .item h3 {
-  color: hsl(210, 10%, 33%);
-  font-size: 24px;
-  font-weight: 600;
-  margin-bottom: 8px;
-}
 
-.ferramenta-list .item p {
-  font-size: 16px;
-  line-height: 165%;
-  color: hsl(201, 11%, 66%);
-}
 .section-header {
   max-width: 730px;
   margin: 0 auto 48px auto;
   text-align: center;
 }
 
+
 .lugares {
   padding: 60px 24px;
   text-align: center;
 }
 
+
 .lugares-image {
   margin-top: 40px;
 }
+
 
 .lugares-image img {
   width: 100%;
@@ -251,10 +164,12 @@ main {
   height: auto;
 }
 
+
 .funcionalidade {
   padding: 60px 24px;
   text-align: center;
 }
+
 
 .funcionalidades-grid {
   display: flex;
@@ -264,6 +179,7 @@ main {
   margin-top: 56px;
 }
 
+
 .card {
   display: flex;
   flex-direction: column;
@@ -271,23 +187,28 @@ main {
   max-width: 350px;
 }
 
+
 .card-icon {
   height: 40px; 
   margin-bottom: 24px;
 }
 
+
 .card h3 {
-  color: rgb(47, 88, 126);
+  color:rgb(39, 40, 43);
   font-size: 24px;
   font-weight: 600;
   margin-bottom: 12px;
 }
+
 
 .card p {
   font-size: 16px;
   line-height: 165%;
   color: rgb(7, 7, 7)
 }
+
+
 
 
 .parceiros {
@@ -298,24 +219,30 @@ main {
   padding: 80px 24px;
 }
 
+
 .parceiros img {
   max-width: 160px;
   height: auto;
 }
+
 
 .download {
   text-align: center;
   padding: 80px 24px 130px 24px;
 }
 
+
 .download .description {
   margin-bottom: 48px;
 }
 
 
+
+
 footer {
-  background-color: hsl(201, 11%, 96%);
+  background-color: white;
 }
+
 
 .footer-container {
   max-width: 1120px;
@@ -326,9 +253,11 @@ footer {
   gap: 40px;
 }
 
+
 .footer-logo {
   width: 55px;
 }
+
 
 .footer-links {
   display: flex;
@@ -337,16 +266,19 @@ footer {
   gap: 16px;
 }
 
+
 .footer-links a {
-  color: hsl(210, 10%, 33%);
+  color: rgb(39, 40, 43);
   text-decoration: none;
   font-size: 18px;
   transition: color 0.3s ease;
 }
 
+
 .footer-links a:hover {
-  color: hsl(171, 66%, 44%); 
+  color: aqua; 
 }
+
 
 .social-links {
   display: flex;
@@ -354,19 +286,24 @@ footer {
   align-items: center;
 }
 
+
 .social-links img {
   width: 24px;
   height: 24px;
 
+
 }
 
+
 @media (min-width: 768px) {
+
 
   .parceiros {
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
   }
+
 
  
   .footer-container {
@@ -375,9 +312,86 @@ footer {
     text-align: left;
   }
 
+
   .footer-links {
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
     gap: 16px 32px;
   }
+}
+
+
+
+
+@media (min-width: 768px) {
+  .parceiros {
+    flex-direction: row;
+    justify-content: center; 
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+
+
+  .footer-container {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: left;
+  }
+
+
+  .footer-links {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px 24px;
+  }
+}
+
+
+
+
+
+
+@media (min-width: 1024px) {
+  .parceiros {
+    justify-content: space-between; 
+    flex-wrap: nowrap;
+  }
+
+
+  .footer-links {
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 16px 32px;
+  }
+  .ferramenta-content {
+    flex-direction: row; 
+    align-items: center; 
+    gap: 80px;           
+  }
+
+
+  .ferramenta-image {
+    flex: 1.2;         
+    justify-content: flex-end;
+  }
+
+
+  .ferramenta-list {
+    flex: 1;
+    align-items: flex-start; 
+    text-align: left;        
+    gap: 40px;
+  }
+  .funcionalidades-grid {
+    flex-direction: row;      
+    justify-content: center;  
+    gap: 32px;                
+    max-width: 1120px;        
+    margin: 56px auto 0 auto;
+    
+
+
+  .card {
+    flex: 1;
+  }
+}
 }

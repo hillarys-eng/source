@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:controllers\\projetoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:controllers\\turmascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|c:\\users\\46846730818\\source\\repos\\projetoportifolio\\projetoportifolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{396A890E-05CD-6506-6872-4FFA4C67A874}|ProjetoPortifolio.csproj|solutionrelative:projetoportifolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Models\\Projeto.cs",
+              "RelativeDocumentMoniker": "Models\\Projeto.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Models\\Projeto.cs",
+              "RelativeToolTip": "Models\\Projeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:24:44.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjetosController.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Controllers\\ProjetosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjetosController.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Controllers\\ProjetosController.cs",
+              "RelativeToolTip": "Controllers\\ProjetosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T14:23:09.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T13:03:46.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-12T13:03:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TurmasController.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Controllers\\TurmasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurmasController.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Controllers\\TurmasController.cs",
+              "RelativeToolTip": "Controllers\\TurmasController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T12:40:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T12:39:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T12:39:14.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Models\\Turma.cs",
+              "RelativeDocumentMoniker": "Models\\Turma.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Models\\Turma.cs",
+              "RelativeToolTip": "Models\\Turma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T12:38:39.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T12:38:09.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjetoPortifolio.csproj",
+              "DocumentMoniker": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\ProjetoPortifolio.csproj",
+              "RelativeDocumentMoniker": "ProjetoPortifolio.csproj",
+              "ToolTip": "C:\\Users\\46846730818\\source\\repos\\ProjetoPortifolio\\ProjetoPortifolio.csproj",
+              "RelativeToolTip": "ProjetoPortifolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T12:13:20.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
